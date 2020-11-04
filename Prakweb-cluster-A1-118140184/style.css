@@ -1,0 +1,31 @@
+.header{
+    width: 784px;
+    height: 200px;
+    background-image: url(https://upload.wikimedia.org/wikipedia/id/0/04/Logo.eKTP.png)
+}
+.column1{
+	width: 200px;
+    height: auto;
+    position: fixed;
+}
+
+#column2{
+	width: 584px;
+	height: auto;
+	margin-left: 205px;
+	
+}
+
+footer{
+	width: 784px;
+	height: 100px;
+	background-color: #8a3294;
+	padding: 1px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+h5{
+	color: white;
+}
