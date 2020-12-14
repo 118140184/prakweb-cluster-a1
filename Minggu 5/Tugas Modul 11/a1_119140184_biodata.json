@@ -1,0 +1,13 @@
+{
+    "biodata": {
+        "nama" : "Alfha Ridho Akira",
+        "nim" : "118140184",
+        "alamat" : {
+            "#text" : "saya tinggal di",
+            "jl" : "parkit",
+            "Gg" : "merak",
+            "kota" : "Bandar Lampung",
+        }
+        
+    }
+}
